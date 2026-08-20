@@ -7,3 +7,7 @@
 <a href="https://store.sunlu.com/products/petg-cfpetg-carbon-fiber-3d-printer-filament-1kg?currency=USD&country=US&variant=49962007265562&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=98fc28031836&utm_source=google&utm_medium=cpc&utm_campaign=%E8%BD%AC%E5%8C%96-us-shopping-0422&utm_term=kathy&gad_source=1&gad_campaignid=22471804735&gbraid=0AAAAAobnryXjFX3cFngLYk4jNlomnZPWr&gclid=CjwKCAjwy5rUBhB5EiwAIoAtCodpp5xcDxGDDxYfXRrkNHACS0DGhLAX3yJEJTTu6DrxGxhUilR7CxoCkh4QAvD_BwE">Sunlu PETG-CF</a>\
 <a href="https://www.adafruit.com/product/5606?srsltid=AfmBOorKVtYEzztPZJAgcpXaGlg-ZsAE3DGB0qRgMU-ULXlcm89Pvonj">MOX Sensor</a>\
 <a href="https://store.sunlu.com/products/sunlu-asa-filament-1-75mm">Sunlu ASA</a>\
+<a href"https://store.sunlu.com/products/nylon6-carbon-fiber-pa6-cf-3d-printer-filament-1kg">Sunlu PA6-CF</a>\
+<a href"https://store.sunlu.com/products/nylon-12-carbon-fiber-pa12-cf-3d-printer-filament-1kg">Sunlu PA12-CF</a>\
+<a href"https://store.sunlu.com/products/sunlu-pc-polycarbonate-3d-printer-filament-1kg">Sunlu PC</a>\
+<a href"https://store.sunlu.com/products/moq-3kg-tpu-3d-printer-filament-1kg">Sunlu 90A TPU</a>
