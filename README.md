@@ -1,10 +1,5 @@
 This is a science fair project for students at SHLS.\
-We are working to make 3D printing as safe as possible, especially with non-enclosed printers.\
 This project started August 20, 2026.
-
-Lead Scientist, Lead Computer Scientist/Engineer, and Assistant Engineer - Lou A.\
-3D Modeler, Head Chemist, and Head Engineer - Kumar N.\
-Assistant 3D Modeler, Head Visionary, and Assistant Engineer - Ty G.
 
 We are working to make 3D printing as safe as possible for everyone. Especially people with non-enclosure printers.\
 We are looking to make this the cheapest possible product for safe and efficient 3D printing.\
@@ -18,6 +13,6 @@ That's our goal with this project.
 This is Enlighten.\
 Our goal is to bring brightness to the world.
 
-Lou A. - Lead Scientist, Lead Computer Scientist/Engineer, lead chemist \
-Kumar N. - 3D Modeler, Head Engineer, lead chemist \
-Ty G. - Head Visionary, Assistant Engineer
+Lead Scientist, Lead Computer Scientist/Engineer, and Assistant Engineer - Lou A.\
+3D Modeler, Head Chemist, and Head Engineer - Kumar N.\
+Assistant 3D Modeler, Head Visionary, and Assistant Engineer - Ty G.
