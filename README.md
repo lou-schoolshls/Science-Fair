@@ -18,4 +18,6 @@ That's our goal with this project.
 This is Enlighten.\
 Our goal is to bring brightness to the world.
 
-Lou A. - Lead Scientist
+Lou A. - Lead Scientist, Lead Computer Scientist/Engineer \
+Kumar N. - 3D Modeler, Head Engineer
+Ty G. - Head Visionary, Assistant Engineer
