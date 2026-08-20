@@ -4,3 +4,6 @@ PLA:\
 \
 PA6:\
 (C<sub>6</sub>H<sub>11</sub>NO)<sub>n</sub>\
+
+PA12:\
+(C<sub>12</sub>H<sub>11</sub>NO)<sub>n</sub>
