@@ -14,5 +14,5 @@ This is Enlighten.\
 Our goal is to bring brightness to the world.
 
 Lead Scientist, Lead Computer Scientist/Engineer, and Assistant Engineer - Lou A.\
-3D Modeler, Head Chemist, and Head Engineer - Kumar N.\
+Lead 3D Modeler, Head Chemist, and Head Engineer - Kumar N.\
 Assistant 3D Modeler, Head Visionary, and Assistant Engineer - Ty G.
