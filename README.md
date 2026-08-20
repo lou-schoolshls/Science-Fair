@@ -12,6 +12,7 @@ This is not only for a science fair project, but to make the future of innovator
 
 We are trying very hard on this; all of us have experience with fumes and microplastics from 3D prints, and we know how harmful they can be.\
 Science isn't just about making discoveries, but also helping the people who may need it.\
+We are doing this project to benefit hobbyists, developers, and commercial users.\
 That's our goal with this project.
 
 This is Enlighten.\
